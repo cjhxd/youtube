@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ytunblocker.net	TRUE	/	FALSE	1999999999	is_mobile	0
+www.ytunblocker.net	TRUE	/	FALSE	1999999999	gdpr-kb	1
+.paypalobjects.com	TRUE	/	FALSE	1999999999	PYPF	CT
+www.paypal.com	TRUE	/	FALSE	1999999999	akavpau_ppsd	1565902819~id=d683de5151caacd00b9b3c4eb1a962b8
+www.ytunblocker.net	TRUE	/	FALSE	1999999999	language	en
+
